@@ -16,3 +16,4 @@
 | **SaleCheckInDayDiff :** | Check in and arrival date day difference |
 | **Season :** | Season information at arrival date |
 
+**Note:** Dataset cannot be published due to copyright issues, the sql script is published only.
